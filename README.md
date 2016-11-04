@@ -10,9 +10,9 @@ Tampilan setelah mengedit data :
 Tampilan ketika menekan button DELETE :
 <br>![4](http://imageshack.com/a/img924/8464/lNJPKg.jpg)<br><br>
 Tampilan ketika ingin menambahkan data pada aplikasi :
-<br>![5](http://imageshack.com/a/img921/9964/sL7TaP.jpg)
-![6](http://imageshack.com/a/img921/845/wMDipD.jpg)
-![7](http://imageshack.com/a/img921/6370/DJR5EX.jpg)<br><br>
+<br>![5](http://imageshack.com/a/img921/2420/Y7xHsV.jpg)
+<br>![6](http://imageshack.com/a/img924/9852/e5pMkn.jpg)
+<br>![7](http://imageshack.com/a/img921/6370/DJR5EX.jpg)<br><br>
 Tampilan saat mencari data :
 <br>![8](http://imageshack.com/a/img922/9711/PK9iZ4.jpg)
 
